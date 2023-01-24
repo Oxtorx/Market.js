@@ -1,0 +1,82 @@
+{
+    "list": [
+      {
+        "characterName": "Ace",
+        "legacyPrestigeLevel": 3,
+        "characterItems": [
+          {
+            "itemId": "Item_Camper_K29InfectionRemover",
+            "quantity": 0
+          },
+          {
+            "itemId": "Addon_Medkit_BlightedSyringe",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_001",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_002",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_003",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_004",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_005",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_006",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_007",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_008",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Flashlight_BrokenBulb",
+            "quantity": 50
+          },
+          {
+            "itemId": "ADDON_flashlight_highendsapphire",
+            "quantity": 50
+          },
+          {
+            "itemId": "ADDON_flashlight_intensehalogen",
+            "quantity": 50
+          },
+          {
+            "itemId": "ADDON_flashlight_lonflifebattery",
+            "quantity": 50
+          },
+          {
+            "itemId": "ADDON_flashlight_oddbulb",
+            "quantity": 50
+          },
+          {
+            "itemId": "ADDON_flashlight_rubbergrip",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Key_001",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Key_002",
+            "quantity": 50
+          },
+          {
+            "itemId": "Addon_Key_003",
+            "quantity": 50
+          },
