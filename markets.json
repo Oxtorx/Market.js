@@ -27019,8 +27019,29 @@
           "objectId" "FM_Head022_01",
           "quantity": 1
           },
+          {
           "lastUpdateAt": 1674587012,
           "objectId" "FM_outfit_022_01",
+          "quantity": 1
+          },
+          {
+          "lastUpdateAt": 1674587012,
+          "objectId" "K21_Body02_01",
+          "quantity": 1
+          },
+          {
+          "lastUpdateAt": 1674587012,
+          "objectId" "K21_Head02_01",
+          "quantity": 1
+          },
+          {
+          "lastUpdateAt": 1674587012,
+          "objectId" "K21_Legs02_01",
+          "quantity": 1
+          },
+          {
+          "lastUpdateAt": 1674587012,
+          "objectId" "K21_outfit_02_01",
           "quantity": 1
           }
       ]
