@@ -2,7 +2,7 @@
     "code": 200,
     "message": "OK",
     "data": {
-      "playerId": "xxx",
+      "playerId": "XXX",
       "inventory": [
         {
           "lastUpdatedAt": 1661880236448,
@@ -312,6 +312,11 @@
         {
           "lastUpdatedAt": 1661880236452,
           "objectId": "S33",
+          "quantity": 1
+        },
+        {
+          "lastUpdatedAt": 1661880236452,
+          "objectId": "K30",
           "quantity": 1
         },
         {
