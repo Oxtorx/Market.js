@@ -3,7 +3,7 @@
     "updatedWallets": [],
     "characterName": "",
     "bloodWebLevel": 50,
-    "prestigeLevel": 9,
+    "prestigeLevel": 4,
     "bloodWebData": {},
     "characterItems": [
       {
@@ -3167,6 +3167,86 @@
         "quantity": 50
       },
       {
+        "itemId": "Addon_K31_1",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_2",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_3",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_4",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_5",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_6",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_7",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_8",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_9",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_10",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_11",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_12",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_13",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_14",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_15",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_16",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_17",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_18",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_19",
+        "quantity": 50
+      },
+      {
+        "itemId": "Addon_K31_20",
+        "quantity": 50
+      },
+      {
         "itemId": "QuantumThemeOffering",
         "quantity": 50
       },
@@ -4156,6 +4236,42 @@
       },
       {
         "itemId": "S33P03",
+        "quantity": 3
+      },
+      {
+        "itemId": "S35P01",
+        "quantity": 3
+      },
+      {
+        "itemId": "S35P02",
+        "quantity": 3
+      },
+      {
+        "itemId": "S35P03",
+        "quantity": 3
+      },
+      {
+        "itemId": "S36P01",
+        "quantity": 3
+      },
+      {
+        "itemId": "S36P02",
+        "quantity": 3
+      },
+      {
+        "itemId": "S36P03",
+        "quantity": 3
+      },
+      {
+        "itemId": "K31P01",
+        "quantity": 3
+      },
+      {
+        "itemId": "K31P02",
+        "quantity": 3
+      },
+      {
+        "itemId": "K31P03",
         "quantity": 3
       }
     ],
