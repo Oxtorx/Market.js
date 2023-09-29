@@ -1,7 +1,6 @@
 {
     "code": 200,
-    "author": "Ismail",
-    "updated": "9/23/2023",
+    "message":"OK",
     "data": {
         "inventory": [
             {
